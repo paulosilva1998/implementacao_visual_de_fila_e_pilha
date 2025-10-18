@@ -1,15 +1,15 @@
 # Uma página com HTML + CSS + JavaScript: 
-## 1. Criei um formulário com 1 input e 5 botões de ação
+1. Criei um formulário com 1 input e 5 botões de ação
 
-    - Inserir no início;
+    ✅ Inserir no início;
 
-    - Inserir no fim;
+    ✅ Inserir no fim;
 
-    - Excluir no início;
+    ✅ Excluir no início;
 
-    - Excluir no fim;
+    ✅ Excluir no fim;
 
-    - Buscar elemento;
+    ✅ Buscar elemento;
 
 2. Apliquei CSS para visualizar a Lista de itens
 
