@@ -1,4 +1,4 @@
-# Uma página com HTML + CSS + JavaScript que: 
+# Uma página com HTML + CSS + JavaScript: 
 ## 1. Criei um formulário com 1 input e 5 botões de ação
 
     - Inserir no início;
